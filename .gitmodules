@@ -1,0 +1,3 @@
+[submodule "openfacebot-plugins/livekit-plugins-openfacebot"]
+	path = openfacebot-plugins/livekit-plugins-openfacebot
+	url = https://github.com/ThomasXU-17/livekit-plugins-openfacebot.git
